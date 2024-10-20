@@ -1,0 +1,17 @@
+/* Common styles */
+@import url("./base/common.css");
+@import url("./base/modern-normalized.css");
+@import url("./base/variables.css");
+@import url("./base/container.css");
+@import url("./utils/visually-hidden.css");
+
+/* Sections style */
+@import url("./layout/header.css");
+@import url("./layout/hero.css");
+@import url("./layout/benefits.css");
+@import url("./layout/ingridients.css");
+@import url("./layout/about.css");
+@import url("./layout/products.css");
+@import url("./layout/reviews.css");
+@import url("./layout/sellers.css");
+@import url("./layout/footer.css");

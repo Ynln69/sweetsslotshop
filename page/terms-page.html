@@ -81,28 +81,44 @@
       }
     </script>
   </head>
+  
   <body>
     <header class="header">
       <div class="container header-container">
+        <a href="./" class="header-logo"
+          ><img
+            src="./img/logo.png"
+            alt="logo of site"
+            width="200"
+            style="
+              background-color: var(--brand-color);
+              border-radius: 10px;
+              padding: 5px;
+            "
+        /></a>
         <nav class="nav">
-          <a href="" class="logotype link">
-            <em>Sweet</em>&nbsp; Slot Shop
-            <svg width="24" height="24" class="logotype-img">
-              <use href="./images/symbol-defs.svg#chocolate"></use>
-            </svg>
-          </a>
-          <button type="button" class="mobile-menu">
-            <svg width="28" height="28" class="burger-menu">
-              <use href="./images/symbol-defs.svg#menu"></use>
-            </svg>
-          </button>
-          <ul class="menu list">
-            <li class="menu-item"><a href="#home" class="link">Home</a></li>
-            <li class="menu-item">
-              <a href="#about" class="link">How it`s Made?</a>
+          <ul class="nav-list">
+            <li class="nav-item">
+              <a class="nav-link" href="./" data-translate="header.link1"
+                >Główny</a
+              >
             </li>
-            <li class="menu-item">
-              <a href="#review" class="link">Chocolate is love</a>
+            <li class="nav-item">
+              <a
+                class="nav-link"
+                href="./page/index.html"
+                data-translate="header.link2"
+              >
+                Kawa</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link"
+                href="./opłata-page.html"
+                data-translate="header.link3"
+                >Opłata i dostawa</a
+              >
             </li>
           </ul>
         </nav>
@@ -114,24 +130,88 @@
     </header>
 
     <main>
-      <section class="hero">
-        <div class="container">
-          <div class="hero-container">
-            <h1 class="hero-title">
-              Treat yourself or a loved one to our finest ingredients for a
-              moment of pure delight!
-            </h1>
-            <div class="hero-box">
-              <a href="#about" class="hero-link link">How it’s made</a>
-            </div>
-          </div>
-        </div>
-      </section>
-      <section class="section" id="products">
-        <div class="container">
-          <h2 class="title">Our <span class="accent">products</span></h2>
-          <ul class="products-list list" id="products-list"></ul>
-          <div id="pagination" class="pagination"></div>
+      <section class="section other-section">
+        <div class="container contacts-container">
+          <h1 data-translate="rules.mainTitle" class="other-title">
+            Regulamin korzystania z Platformy
+          </h1>
+
+          <h2 data-translate="rules.title1" class="subtitle-page">
+            1. Postanowienia ogólne
+          </h2>
+          <p data-translate="rules.text1">
+            Niniejszy regulamin określa zasady korzystania z platformy
+            <strong>sweetsslotshop.com</strong>. Korzystanie z naszej strony
+            internetowej oznacza akceptację niniejszych warunków. Prosimy o
+            uważne zapoznanie się z regulaminem przed dokonaniem jakichkolwiek
+            zakupów.
+          </p>
+
+          <h2 data-translate="rules.title2" class="subtitle-page">
+            2. Rejestracja i dane osobowe
+          </h2>
+          <p data-translate="rules.text2">
+            Podczas składania zamówienia użytkownik jest zobowiązany do podania
+            prawdziwych danych, takich jak: imię i nazwisko, numer telefonu oraz
+            adres e-mail. Informacje te są niezbędne do realizacji zamówienia i
+            kontaktu z klientem.
+            <strong>sweetsslotshop.com</strong> gwarantuje ochronę danych
+            osobowych zgodnie z obowiązującymi przepisami o ochronie danych.
+          </p>
+
+          <h2 data-translate="rules.title3" class="subtitle-page">
+            3. Zasady korzystania z platformy
+          </h2>
+          <p data-translate="rules.text3">
+            Użytkownik zobowiązuje się do korzystania z platformy zgodnie z
+            prawem i zasadami określonymi w niniejszym regulaminie. Zabronione
+            jest:
+          </p>
+          <ul class="page-list">
+            <li data-translate="rules.item1">
+              Korzystanie z platformy w sposób, który narusza obowiązujące
+              przepisy prawa.
+            </li>
+            <li data-translate="rules.item2">
+              Przekazywanie nieprawdziwych lub wprowadzających w błąd informacji
+              podczas rejestracji lub składania zamówień.
+            </li>
+            <li data-translate="rules.item3">
+              Wykorzystywanie platformy do działań szkodzących jej
+              funkcjonowaniu.
+            </li>
+          </ul>
+
+          <h2 data-translate="rules.title4" class="subtitle-page">
+            4. Odpowiedzialność
+          </h2>
+          <p data-translate="rules.text4">
+            Platforma <strong>sweetsslotshop.com</strong> nie ponosi
+            odpowiedzialności za jakiekolwiek szkody wynikające z niewłaściwego
+            korzystania z jej usług przez użytkownika. W przypadku problemów
+            technicznych z platformą użytkownik ma obowiązek niezwłocznie
+            zgłosić je administratorom strony.
+          </p>
+
+          <h2 data-translate="rules.title5" class="subtitle-page">
+            5. Zmiany w regulaminie
+          </h2>
+          <p data-translate="rules.text5">
+            Zastrzegamy sobie prawo do dokonywania zmian w niniejszym
+            regulaminie w dowolnym momencie. Wszelkie zmiany zostaną
+            opublikowane na tej stronie i zaczną obowiązywać z chwilą ich
+            opublikowania. Korzystanie z platformy po wprowadzeniu zmian oznacza
+            akceptację nowego regulaminu.
+          </p>
+
+          <h2 data-translate="rules.title6" class="subtitle-page">
+            6. Kontakt
+          </h2>
+          <p data-translate="rules.text6">
+            W razie pytań dotyczących niniejszego regulaminu prosimy o kontakt
+            za pośrednictwem strony
+            <a href="https://sweetsslotshop.com/kontakt">Kontakt</a>.
+          </p>
         </div>
       </section>
     </main>
@@ -139,9 +219,9 @@
     <footer class="footer">
       <div class="container footer-container">
         <nav class="footer-nav">
-          <a href="../">
+          <a href="./">
             <img
-              src="../img/logo.png"
+              src="./img/logo.png"
               alt="logo of site"
               width="200"
               height="200"
@@ -155,7 +235,7 @@
             </li>
             <li>
               <a
-                href="../polityka-page.html"
+                href="./polityka-page.html"
                 class="footer-item-link"
                 data-translate="footer.link5"
                 >Polityka prywatności |
@@ -163,7 +243,7 @@
             </li>
             <li>
               <a
-                href="../regulamin-page.html"
+                href="./regulamin-page.html"
                 class="footer-item-link"
                 data-translate="footer.link6"
               >
@@ -172,7 +252,7 @@
             </li>
             <li>
               <a
-                href="../gwarancja-page.html"
+                href="./gwarancja-page.html"
                 class="footer-item-link"
                 data-translate="footer.link7"
               >
@@ -181,7 +261,7 @@
             </li>
             <li>
               <a
-                href="../opłata-page.html"
+                href="./opłata-page.html"
                 class="footer-item-link"
                 data-translate="footer.link8"
               >
@@ -197,7 +277,7 @@
             </li>
             <li class="footer-nav-item">
               <a
-                href="../"
+                href="./"
                 class="footer-item-link"
                 data-translate="footer.link1"
                 >Główny</a
@@ -205,7 +285,7 @@
             </li>
             <li class="footer-nav-item">
               <a
-                href="../page/index.html"
+                href="./page/index.html"
                 class="footer-item-link"
                 data-translate="footer.link2"
               >
@@ -214,7 +294,7 @@
             </li>
             <li class="footer-nav-item">
               <a
-                href="../#how"
+                href="./#how"
                 class="footer-item-link"
                 data-translate="footer.link3"
               >
@@ -228,10 +308,8 @@
         </p>
       </div>
     </footer>
-
     <script src="https://unpkg.com/i18next-xhr-backend@latest/i18nextXHRBackend.min.js"></script>
     <script src="https://unpkg.com/i18next@21.6.11/dist/umd/i18next.min.js"></script>
-    <script type="module" src="../js/translator.js"></script>
-    <script type="module" src="../js/coffee-products.js"></script>
+    <script type="module" src="./js/translator.js"></script>
   </body>
 </html>

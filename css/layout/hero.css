@@ -1,0 +1,121 @@
+.hero-container {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border-radius: 30px;
+  height: 620px;
+
+  background-image: url(../../images/chocolate_main-t.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.hero-title {
+  width: 100%;
+  max-width: 299px;
+  margin-bottom: 32px;
+
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: -0.03em;
+  color: var(--secondaryTextColor);
+}
+.hero-box {
+  margin-bottom: 32px;
+}
+.hero-btn {
+  height: 45px;
+  margin-right: 14px;
+  padding: 12px 28px;
+  border-radius: 100px;
+  border: none;
+
+  background-color: var(--accentColor);
+  color: var(--secondaryTextColor);
+  font-weight: 600;
+}
+.hero-link {
+  height: 45px;
+  padding: 12px 28px;
+  border: 1px solid var(--secondaryTextColor);
+  border-radius: 100px;
+
+  color: var(--secondaryTextColor);
+}
+.scroll {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+
+  font-weight: 500;
+  line-height: 129%;
+  letter-spacing: -0.03em;
+  color: var(--secondaryTextColor);
+}
+.scroll-svg {
+  height: 38px;
+  border-radius: 100%;
+  background-color: #fff;
+  padding: 8px;
+  fill: var(--accentColor);
+}
+
+@media screen and (min-width: 768px) {
+  .hero-container {
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    height: 600px;
+
+    background-image: url(../../images/chocolate_main.jpg);
+  }
+  .hero-title {
+    max-width: 484px;
+    margin-bottom: 42px;
+
+    color: var(--secondaryTextColor);
+    font-size: 28px;
+    line-height: 121%;
+  }
+  .hero-box {
+    margin-bottom: 0;
+  }
+  .hero-btn {
+    padding: 14px 40px;
+  }
+  .hero-link {
+    padding: 14px 40px;
+
+    font-weight: 600;
+  }
+  .scroll {
+    position: absolute;
+    bottom: 40px;
+    right: 40px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .hero-btn:hover {
+    background-color: var(--btnHover);
+    color: var(--accentColor);
+  }
+  .hero-link:hover {
+    border-color: var(--accentColor);
+    color: var(--accentColor);
+  }
+  .scroll:hover {
+    color: var(--accentColor);
+  }
+  .scroll:hover .scroll-svg {
+    fill: var(--mainBgColor);
+    background-color: var(--accentColor);
+  }
+}

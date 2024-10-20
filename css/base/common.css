@@ -1,0 +1,105 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--prymaryFont);
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--mainTextColor);
+  background-color: var(--mainBgColor);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.accent {
+  color: var(--accentColor);
+}
+
+.list {
+  list-style: none;
+}
+
+.link {
+  color: currentColor;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+button {
+  cursor: pointer;
+}
+
+.title {
+  margin-bottom: 32px;
+
+  color: var(--mainTextColor);
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  text-align: center;
+  @media (min-width: 768px) {
+    margin-bottom: 50px;
+    font-size: 24px;
+    line-height: 117%;
+  }
+}
+
+.main-btn {
+  display: block;
+  border: none;
+  border-radius: 100px;
+  padding: 12px 18px;
+
+  font-size: clamp(0.75rem, 0.382vw + 0.656rem, 1rem);
+  line-height: clamp(1.125rem, 0.573vw + 0.984rem, 1.5rem);
+  color: var(--second-color);
+  background-color: var(--text-color);
+  transition: opacity 3s linear;
+  &:hover,
+  &:focus {
+    opacity: 0.6;
+  }
+}
+.contacts-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 15px;
+}
+.contacts-container p {
+  color: var(--text-color);
+}
+.other-title {
+  font-weight: 200;
+  font-size: clamp(1.625rem, 2.674vw + 0.968rem, 3.375rem);
+  line-height: clamp(2.275rem, 3.744vw + 1.355rem, 4.725rem);
+  text-align: center;
+}
+
+.contacts-map {
+  width: 100%;
+  height: 450px;
+  margin-top: 20px;
+}
+.page-list {
+  list-style: square;
+  padding-left: 40px;
+}

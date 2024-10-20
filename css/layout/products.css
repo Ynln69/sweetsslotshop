@@ -1,0 +1,44 @@
+@media screen and (min-width: 375px) {
+  .products-list {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+  .products-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 32px 52px;
+    border: 1px solid var(--borderColor);
+    border-radius: 15px;
+    width: 335px;
+
+    background-color: var(--wightCardColor);
+  }
+  .products-subtitle {
+    margin-bottom: 2px;
+
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 133%;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    color: var(--mainTextColor);
+  }
+  .products-text {
+    font-size: 12px;
+    line-height: 117%;
+    letter-spacing: -0.02em;
+    color: var(--productsTextColor);
+  }
+}
+@media screen and (min-width: 768px) {
+}
+@media screen and (min-width: 1200px) {
+}
+
+.products-item {
+  border: 1px solid var(--borderColor);
+  border-radius: 15px;
+  width: 335px;
+}

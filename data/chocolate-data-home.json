@@ -1,0 +1,25 @@
+{
+  "chocolate": [
+    {
+      "id": 1,
+      "photo": "../images/prodacts/card-1.webp",
+      "title": "orange",
+      "price": "69",
+      "description": "Dark chocolate"
+    },
+    {
+      "id": 2,
+      "photo": "../images/prodacts/card-2.webp",
+      "title": "APPLE&CRANBERRY",
+      "price": "75",
+      "description": "Milk chocolate"
+    },
+    {
+      "id": 3,
+      "photo": "../images/prodacts/card-3.webp",
+      "title": "lime&sea salt",
+      "price": "65",
+      "description": "Dark chocolate"
+    }
+  ]
+}

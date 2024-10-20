@@ -1,0 +1,74 @@
+{
+  "chocolate": [
+    {
+      "id": 1,
+      "photo": "../images/prodacts/card-1.webp",
+      "title": "orange",
+      "price": "69",
+      "description": "Dark chocolate"
+    },
+    {
+      "id": 2,
+      "photo": "../images/prodacts/card-2.webp",
+      "title": "APPLE&CRANBERRY",
+      "price": "75",
+      "description": "Milk chocolate"
+    },
+    {
+      "id": 3,
+      "photo": "../images/prodacts/card-3.webp",
+      "title": "lime&sea salt",
+      "price": "65",
+      "description": "Dark chocolate"
+    },
+    {
+      "id": 4,
+      "photo": "../images/prodacts/card-4.webp",
+      "title": "pineapple",
+      "price": "79",
+      "description": "Dark chocolate"
+    },
+    {
+      "id": 5,
+      "photo": "../images/prodacts/card-5.webp",
+      "title": "Classic",
+      "price": "89",
+      "description": "Milk chocolate"
+    },
+    {
+      "id": 6,
+      "photo": "../images/prodacts/card-6.webp",
+      "title": "honey",
+      "price": "69",
+      "description": "Milk chocolate"
+    },
+    {
+      "id": 7,
+      "photo": "../images/prodacts/card-7.webp",
+      "title": "Roasted fruits",
+      "price": "95",
+      "description": "Dark chocolate"
+    },
+    {
+      "id": 8,
+      "photo": "../images/prodacts/card-8.webp",
+      "title": "Classic",
+      "price": "55",
+      "description": "White chocolate"
+    },
+    {
+      "id": 9,
+      "photo": "../images/prodacts/card-9.webp",
+      "title": "Raspberry & White Chocolate",
+      "price": "79",
+      "description": "White Chocolate"
+    },
+    {
+      "id": 10,
+      "photo": "../images/prodacts/card-10.webp",
+      "title": "Caramel & Sea Salt",
+      "price": "85",
+      "description": "Milk chocolate"
+    }
+  ]
+}

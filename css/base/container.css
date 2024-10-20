@@ -4,15 +4,15 @@
   margin-right: auto;
   padding-left: 20px;
   padding-right: 20px;
-  @media screen and (min-width: 1200px) {
-    width: 1200px;
-    padding-left: 54px;
-    padding-right: 54px;
+  @media screen and (min-width: 1440px) {
+    width: 1376px;
+    padding-left: 64px;
+    padding-right: 64px;
   }
 }
 .section {
-  padding-top: clamp(20px, calc(10px + 5vw), 180px);
-  padding-bottom: clamp(20px, calc(10px + 5vw), 64px);
+  padding-top: clamp(40px, calc(10px + 5vw), 60px);
+  padding-bottom: clamp(40px, calc(10px + 5vw), 60px);
 }
 .other-section {
   padding-top: 120px;
