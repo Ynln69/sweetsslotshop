@@ -1,0 +1,74 @@
+{
+  "coffees": [
+    {
+      "id": 1,
+      "photo": "../img/coffee-card/card-1.png",
+      "title": "Arabica Ethiopia",
+      "price": "69",
+      "description": "Delikatna kawa o kwiatowym aromacie z nutami cytrusów. Idealna dla miłośników lekkiego smaku."
+    },
+    {
+      "id": 2,
+      "photo": "../img/coffee-card/card-2.png",
+      "title": "Arabica Colombia",
+      "price": "75",
+      "description": "Wyjątkowo zrównoważona kawa o subtelnym, owocowym smaku i delikatnej kwasowości."
+    },
+    {
+      "id": 3,
+      "photo": "../img/coffee-card/card-3.png",
+      "title": "Arabica Brazil Santos",
+      "price": "65",
+      "description": "Aromatyczna kawa z nutami orzechów i czekolady, idealna do espresso."
+    },
+    {
+      "id": 4,
+      "photo": "../img/coffee-card/card-4.png",
+      "title": "Arabica Guatemala",
+      "price": "79",
+      "description": "Kawa o złożonym profilu smakowym, z nutami karmelu i czekolady. Doskonała na popołudniowy relaks."
+    },
+    {
+      "id": 5,
+      "photo": "../img/coffee-card/card-5.png",
+      "title": "Arabica Kenya AA",
+      "price": "89",
+      "description": "Wyrazista kawa o intensywnym owocowym smaku z delikatną kwasowością. Idealna na wyjątkowe okazje."
+    },
+    {
+      "id": 6,
+      "photo": "../img/coffee-card/card-6.png",
+      "title": "Arabica Peru",
+      "price": "69",
+      "description": "Organiczna kawa o łagodnym smaku, z nutami karmelu i miodu."
+    },
+    {
+      "id": 7,
+      "photo": "../img/coffee-card/card-7.png",
+      "title": "Arabica Sumatra",
+      "price": "95",
+      "description": "Kawa o pełnym, ziemistym smaku z nutami przypraw i czekolady. Doskonała dla koneserów."
+    },
+    {
+      "id": 8,
+      "photo": "../img/coffee-card/card-8.png",
+      "title": "Robusta India",
+      "price": "55",
+      "description": "Mocna kawa o intensywnym smaku i dużej zawartości kofeiny. Idealna na poranne pobudzenie."
+    },
+    {
+      "id": 9,
+      "photo": "../img/coffee-card/card-9.png",
+      "title": "Mieszanka Espresso",
+      "price": "79",
+      "description": "Starannie dobrana mieszanka Arabiki i Robusty, idealna do przygotowania mocnego espresso."
+    },
+    {
+      "id": 10,
+      "photo": "../img/coffee-card/card-10.png",
+      "title": "Arabica Costa Rica",
+      "price": "85",
+      "description": "Kawa o jasnym smaku z nutami cytrusów i miodu. Doskonała dla miłośników subtelnych aromatów."
+    }
+  ]
+}

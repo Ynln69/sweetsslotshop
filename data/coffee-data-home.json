@@ -1,0 +1,25 @@
+{
+  "coffees": [
+    {
+      "id": 1,
+      "photo": "./img/coffee-card/card-1.png",
+      "title": "Arabica Ethiopia",
+      "price": "69",
+      "description": "Delikatna kawa o kwiatowym aromacie z nutami cytrusów. Idealna dla miłośników lekkiego smaku."
+    },
+    {
+      "id": 2,
+      "photo": "./img/coffee-card/card-2.png",
+      "title": "Arabica Colombia",
+      "price": "75",
+      "description": "Wyjątkowo zrównoważona kawa o subtelnym, owocowym smaku i delikatnej kwasowości."
+    },
+    {
+      "id": 3,
+      "photo": "./img/coffee-card/card-3.png",
+      "title": "Arabica Brazil Santos",
+      "price": "65",
+      "description": "Aromatyczna kawa z nutami orzechów i czekolady, idealna do espresso."
+    }
+  ]
+}

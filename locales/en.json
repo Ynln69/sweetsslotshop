@@ -1,0 +1,176 @@
+{
+  "header": {
+    "link1": "Main",
+    "link2": "Coffee",
+    "link3": "Payment and Delivery",
+    "link4": "Our Offer"
+  },
+  "about": {
+    "title1": "coffeeonlineslot",
+    "title2": "Savor the moment with coffeeonlineslot",
+    "desc1": "Freshly roasted coffee for everyone. We carefully select the best coffee beans and roast them specifically for your brewing method to provide an unforgettable experience with every cup.",
+    "desc2": "Coffee is more than just a drink. It's a moment of inspiration, relaxation, and enjoyment with every sip. Experience the true taste of life with us and discover your favorite aroma in every cup.",
+    "aboutBtn": "Choose coffee"
+  },
+  "howItWork": {
+    "mainTitle": "We'll explain in simple terms how we work.",
+    "text": "Coffee varieties and brewing methods are as diverse as we are. However, supermarket coffee is equally bad.",
+
+    "title1": "One",
+    "title2": "Two",
+    "title3": "Three",
+    "title4": "Four",
+
+    "desc1": "You choose any coffee variety, brewing method, grind, and packaging.",
+    "desc2": "We don’t have pre-roasted coffee, so we take green beans of the selected variety.",
+    "desc3": "We roast them on the day of your order, tailored to your brewing method.",
+    "desc4": "We send freshly roasted coffee by the method most convenient for you."
+  },
+  "coffee": {
+    "mainTitile": "Freshly Roasted Coffee",
+
+    "cardTitle1": "Arabica Ethiopia",
+    "cardDesc1": "A delicate coffee with floral aromas and citrus notes. Ideal for those who prefer a light taste.",
+
+    "cardTitle2": "Arabica Colombia",
+    "cardDesc2": "An exceptionally balanced coffee with subtle fruity flavors and delicate acidity.",
+
+    "cardTitle3": "Arabica Brazil Santos",
+    "cardDesc3": "An aromatic coffee with nutty and chocolate notes, perfect for espresso.",
+
+    "cardTitle4": "Arabica Guatemala",
+    "cardDesc4": "A coffee with a complex flavor profile, featuring caramel and chocolate notes. Perfect for an afternoon relaxation.",
+
+    "cardTitle5": "Arabica Kenya AA",
+    "cardDesc5": "A bold coffee with intense fruity flavors and mild acidity. Ideal for special occasions.",
+
+    "cardTitle6": "Arabica Peru",
+    "cardDesc6": "An organic coffee with a smooth taste, featuring caramel and honey notes.",
+
+    "cardTitle7": "Arabica Sumatra",
+    "cardDesc7": "A coffee with a full, earthy taste with spice and chocolate notes. Perfect for connoisseurs.",
+
+    "cardTitle8": "Robusta India",
+    "cardDesc8": "A strong coffee with an intense flavor and high caffeine content. Perfect for a morning boost.",
+
+    "cardTitle9": "Espresso Blend",
+    "cardDesc9": "A carefully selected blend of Arabica and Robusta, perfect for making strong espresso.",
+
+    "cardTitle10": "Arabica Costa Rica",
+    "cardDesc10": "A bright coffee with citrus and honey notes. Perfect for those who enjoy subtle aromas.",
+
+    "cardQuantity": "Number",
+    "cardPrice": "Price",
+    "mainTitle": "our products",
+    "mainBtn": "go to catalog"
+  },
+  "payment": {
+    "mainTitle": "Payment and Delivery",
+
+    "title1": "Payment Methods",
+    "title2": "Delivery Options",
+    "title3": "Order Tracking",
+    "title4": "Contact",
+
+    "text1": "In our online store https://coffeeonlineslot.com we offer a variety of convenient payment methods to ensure a comfortable shopping experience for our customers. You can choose one of the following payment options:",
+    "text2": "All payments are processed securely, ensuring the protection of your personal and financial data.",
+    "text3": "We deliver our products within Poland and to many European countries. We offer the following delivery options:",
+    "text4": "Delivery costs are automatically calculated during checkout and depend on the chosen delivery method and location.",
+    "text5": "After your order is shipped, you will receive a tracking number that allows you to monitor the delivery status in real time.",
+    "text6": "If you have any questions regarding payment or delivery, please contact us via the Contact page available at https://coffeeonlineslot.com. We're here to help!",
+
+    "item1": "Credit/debit card payment (Visa, MasterCard)",
+    "item2": "Bank transfer",
+    "item3": "Online payment through secure payment systems",
+    "item4": "Cash on delivery (for selected delivery methods)",
+    "item5": "Courier delivery (2-5 business days)",
+    "item6": "Parcel lockers (1-3 business days)",
+    "item7": "International delivery (5-10 business days, depending on the country)"
+  },
+  "rules": {
+    "mainTitle": "Terms of Use",
+
+    "title1": "1. General Provisions",
+    "title2": "2. Registration and Personal Data",
+    "title3": "3. Platform Use Rules",
+    "title4": "4. Liability",
+    "title5": "5. Changes to the Terms",
+    "title6": "6. Contact",
+
+    "text1": "These terms of use define the rules for using the platform https://coffeeonlineslot.com. Using our website means accepting these terms. Please read the terms carefully before making any purchases.",
+    "text2": "When placing an order, the user is required to provide accurate information, such as name, phone number, and email address. This information is necessary to fulfill the order and contact the customer. https://coffeeonlineslot.com guarantees the protection of personal data in accordance with applicable data protection regulations.",
+    "text3": "The user agrees to use the platform in accordance with the law and the rules outlined in these terms. The following is prohibited:",
+    "text4": "The platform https://coffeeonlineslot.com is not responsible for any damages resulting from improper use of its services by the user. In the event of technical problems with the platform, the user must immediately report them to the website administrators.",
+    "text5": "We reserve the right to make changes to these terms at any time. All changes will be published on this page and will take effect upon publication. Continued use of the platform after changes are made constitutes acceptance of the new terms.",
+    "text6": "If you have any questions regarding these terms, please contact us via the Contact page available at https://coffeeonlineslot.com.",
+
+    "item1": "Using the platform in a way that violates applicable laws.",
+    "item2": "Providing false or misleading information during registration or when placing orders.",
+    "item3": "Using the platform for activities that harm its operation."
+  },
+  "warranty": {
+    "mainTitle": "Warranty and Returns",
+
+    "title1": "1. Product Warranty",
+    "title2": "2. Return Policy",
+    "title3": "3. Refund Process",
+    "title4": "4. Product Exchange",
+    "title5": "5. Contact",
+
+    "text1": "All products purchased in the online store https://coffeeonlineslot.com are covered by the manufacturer's warranty. The warranty covers manufacturing defects and damages resulting from normal use. The warranty period depends on the specific product and is provided in its description on our website.",
+    "text2": "If a defect is found in the purchased product, please contact our customer service department immediately via the Contact page available on the website.",
+    "text3": "The customer has the right to return the purchased product within 14 days from the date of receiving the package without providing any reason. To exercise the right to withdraw from the contract, please contact our customer service department and fill out the return form available on the website.",
+    "text4": "The returned product must be in its original condition, in its original packaging, and without signs of use. The cost of return shipping is borne by the customer unless the return is due to an error on our part (e.g., sending the wrong product).",
+    "text5": "After receiving and inspecting the returned product, the funds will be refunded to the customer's account within 14 business days. The refund will be made using the same payment method that the customer used during the purchase unless otherwise agreed.",
+    "text6": "If you wish to exchange the product for another, please contact our customer service department. Product exchanges are possible if the ordered product is available in stock. In such a case, you need to return the purchased product, and we will send the new one after receiving the returned item.",
+    "text7": "If you have any questions regarding warranties or returns, please contact our customer service department via the Contact page available on the website. We are happy to answer any questions and assist you in resolving any issues."
+  },
+  "privacy": {
+    "mainTitle": "Privacy Policy",
+
+    "title1": "1. General Information",
+    "title2": "2. Scope of Data Collected",
+    "title3": "3. Purposes of Data Processing",
+    "title4": "4. Data Protection",
+    "title5": "5. User Rights",
+    "title6": "6. Cookies",
+    "title7": "7. Changes to the Privacy Policy",
+    "title8": "8. Contact",
+
+    "text1": "This privacy policy defines the rules for processing personal data of users using the website https://coffeeonlineslot.com. Protecting the privacy of our customers is our priority, which is why we collect and process personal data in accordance with applicable laws, including Regulation (EU) 2016/679 of the European Parliament and of the Council (GDPR).",
+    "text2": "When placing an order or registering on our website, we may ask you to provide the following information:",
+    "text3": "This data is necessary to fulfill orders and contact customers in case of questions or issues.",
+    "text4": "We process users' personal data for the following purposes:",
+    "text5": "All personal data of users is protected by appropriate technical and organizational measures to ensure their security against unauthorized access, alteration, or destruction. Only authorized persons who are bound by confidentiality have access to the data.",
+    "text6": "Every user has the right to:",
+    "text7": "Our website uses cookies to improve the quality of services provided and tailor content to the user's individual preferences. Users can manage cookie settings through their web browser. Detailed information on this is provided in our Cookie Policy.",
+    "text8": "We reserve the right to make changes to this privacy policy. All changes will be published on this page. We recommend regularly reviewing the policy to stay informed about the latest data protection rules.",
+    "text9": "If you have any questions regarding the privacy policy, please contact us via the Contact page.",
+
+    "item1": "Name and surname",
+    "item2": "Email address",
+    "item3": "Phone number",
+    "item4": "Delivery address",
+    "item5": "Fulfilling orders placed by users",
+    "item6": "Contacting users regarding orders",
+    "item7": "Informing about new products, promotions, and special offers if the user has consented to receive newsletters",
+    "item8": "Improving website functionality and analyzing website traffic",
+    "item9": "Access to your personal data",
+    "item10": "Correcting, deleting, or restricting the processing of data",
+    "item11": "Withdrawing consent to data processing at any time",
+    "item12": "Transferring data to another data controller",
+    "item13": "Filing a complaint with a supervisory authority in case of a violation of data protection regulations"
+  },
+  "footer": {
+    "link1": "Main",
+    "link2": "Coffee",
+    "link3": "How it work",
+    "link5": "Privacy Policy |",
+    "link6": "Terms of Use |",
+    "link7": "Warranty and Returns |",
+    "link8": "Payment and Delivery",
+
+    "text1": "Help",
+    "text2": "Sections"
+  }
+}

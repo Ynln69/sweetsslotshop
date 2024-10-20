@@ -1,0 +1,74 @@
+{
+  "coffees": [
+    {
+      "id": 1,
+      "photo": "img/coffee-card/card-1.png",
+      "title": "Arabica Ethiopia",
+      "price": "69",
+      "description": "A delicate coffee with floral aromas and citrus notes. Ideal for those who prefer a light taste."
+    },
+    {
+      "id": 2,
+      "photo": "img/coffee-card/card-2.png",
+      "title": "Arabica Colombia",
+      "price": "75",
+      "description": "An exceptionally balanced coffee with subtle fruity flavors and delicate acidity."
+    },
+    {
+      "id": 3,
+      "photo": "img/coffee-card/card-3.png",
+      "title": "Arabica Brazil Santos",
+      "price": "65",
+      "description": "An aromatic coffee with nutty and chocolate notes, perfect for espresso."
+    },
+    {
+      "id": 4,
+      "photo": "img/coffee-card/card-4.png",
+      "title": "Arabica Guatemala",
+      "price": "79",
+      "description": "A coffee with a complex flavor profile, featuring caramel and chocolate notes. Perfect for an afternoon relaxation."
+    },
+    {
+      "id": 5,
+      "photo": "img/coffee-card/card-5.png",
+      "title": "Arabica Kenya AA",
+      "price": "89",
+      "description": "A bold coffee with intense fruity flavors and mild acidity. Ideal for special occasions."
+    },
+    {
+      "id": 6,
+      "photo": "img/coffee-card/card-6.png",
+      "title": "Arabica Peru",
+      "price": "69",
+      "description": "An organic coffee with a smooth taste, featuring caramel and honey notes."
+    },
+    {
+      "id": 7,
+      "photo": "img/coffee-card/card-7.png",
+      "title": "Arabica Sumatra",
+      "price": "95",
+      "description": "A coffee with a full, earthy taste with spice and chocolate notes. Perfect for connoisseurs."
+    },
+    {
+      "id": 8,
+      "photo": "img/coffee-card/card-8.png",
+      "title": "Robusta India",
+      "price": "55",
+      "description": "A strong coffee with an intense flavor and high caffeine content. Perfect for a morning boost."
+    },
+    {
+      "id": 9,
+      "photo": "img/coffee-card/card-9.png",
+      "title": "Espresso Blend",
+      "price": "79",
+      "description": "A carefully selected blend of Arabica and Robusta, perfect for making strong espresso."
+    },
+    {
+      "id": 10,
+      "photo": "img/coffee-card/card-10.png",
+      "title": "Arabica Costa Rica",
+      "price": "85",
+      "description": "A bright coffee with citrus and honey notes. Perfect for those who enjoy subtle aromas."
+    }
+  ]
+}

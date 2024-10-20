@@ -1,0 +1,176 @@
+{
+  "header": {
+    "link1": "Główny",
+    "link2": "Kawa",
+    "link3": "Opłata i dostawa",
+    "link4": "Nasza Oferta"
+  },
+  "about": {
+    "title1": "coffeeonlineslot",
+    "title2": "Smakuj chwilę z coffeeonlineslot",
+    "desc1": "Świeżo palona kawa dla wszystkich. Starannie wybieramy najlepsze gatunki kawy i palimy je specjalnie pod twój sposób parzenia, aby podarować niezapomniane wrażenia z każdej filiżanki.",
+    "desc2": "Kawa to coś więcej niż tylko napój. To chwila inspiracji, odpoczynku i przyjemności z każdym łykiem. Poczuj prawdziwy smak życia razem z nami i odkryj swój ulubiony aromat w każdej filiżance.",
+    "aboutBtn": "Wybrać kawę"
+  },
+  "howItWork": {
+    "mainTitle": "Wyjaśnimy na palcach, jak działamy.",
+    "text": "Gatunki kawy i sposoby jej parzenia są tak różnorodne, jak my sami. Natomiast kawa z supermarketu jest równie kiepska.",
+
+    "title1": "Raz",
+    "title2": "Dwa",
+    "title3": "Trzy",
+    "title4": "Cztery",
+
+    "desc1": "Wybierasz dowolny gatunek kawy, sposób parzenia, mielenie i opakowanie.",
+    "desc2": "Nie mamy gotowej kawy, dlatego bierzemy zielone ziarno wybranego gatunku.",
+    "desc3": " Palimy je w dniu zamówienia, dostosowując do twojego sposobu parzenia.",
+    "desc4": "Wysyłamy świeżo upaloną kawę w dogodny dla ciebie sposób."
+  },
+  "coffee": {
+    "mainTitile": "Świeżo palona kawa",
+
+    "cardTitle1": "Arabica Ethiopia",
+    "cardDesc1": "Delikatna kawa o kwiatowym aromacie z nutami cytrusów. Idealna dla miłośników lekkiego smaku.",
+
+    "cardTitle2": "Arabica Colombia",
+    "cardDesc2": "Wyjątkowo zrównoważona kawa o subtelnym, owocowym smaku i delikatnej kwasowości.",
+
+    "cardTitle3": "Arabica Brazil Santos",
+    "cardDesc3": "Aromatyczna kawa z nutami orzechów i czekolady, idealna do espresso.",
+
+    "cardTitle4": "Arabica Guatemala",
+    "cardDesc4": "Kawa o złożonym profilu smakowym, z nutami karmelu i czekolady. Doskonała na popołudniowy relaks.",
+
+    "cardTitle5": "Arabica Kenya AA",
+    "cardDesc5": "Wyrazista kawa o intensywnym owocowym smaku z delikatną kwasowością. Idealna na wyjątkowe okazje.",
+
+    "cardTitle6": "Arabica Peru",
+    "cardDesc6": "Organiczna kawa o łagodnym smaku, z nutami karmelu i miodu.",
+
+    "cardTitle7": "Arabica Sumatra",
+    "cardDesc7": "Kawa o pełnym, ziemistym smaku z nutami przypraw i czekolady. Doskonała dla koneserów.",
+
+    "cardTitle8": "Robusta India",
+    "cardDesc8": "Mocna kawa o intensywnym smaku i dużej zawartości kofeiny. Idealna na poranne pobudzenie.",
+
+    "cardTitle9": "Mieszanka Espresso",
+    "cardDesc9": "Starannie dobrana mieszanka Arabiki i Robusty, idealna do przygotowania mocnego espresso.",
+
+    "cardTitle10": "Arabica Costa Rica",
+    "cardDesc10": "Kawa o jasnym smaku z nutami cytrusów i miodu. Doskonała dla miłośników subtelnych aromatów.",
+
+    "cardQuantity": "Numer",
+    "cardPrice": "Cena",
+    "mainTitle": "nasze towary",
+    "mainBtn": "przejdź do katalogu"
+  },
+  "payment": {
+    "mainTitle": "Opłata i dostawa",
+
+    "title1": "Metody płatności",
+    "title2": "Opcje dostawy",
+    "title3": "Śledzenie przesyłki",
+    "title4": "Kontakt",
+
+    "text1": "W naszym sklepie internetowym  https://coffeeonlineslot.com  oferujemy różnorodne, wygodne metody płatności, aby zapewnić komfort zakupów naszym klientom. Możesz wybrać jeden z następujących sposobów płatności:",
+    "text2": "Wszystkie płatności są przetwarzane w bezpieczny sposób, co gwarantuje ochronę Twoich danych osobowych i finansowych.",
+    "text3": "Dostarczamy nasze produkty na terenie Polski oraz do wielu krajów Europy. Oferujemy następujące opcje dostawy:",
+    "text4": "Koszty dostawy są obliczane automatycznie podczas składania zamówienia i zależą od wybranej metody dostawy oraz lokalizacji dostarczenia.",
+    "text5": "Po wysłaniu zamówienia otrzymasz od nas numer śledzenia przesyłki, który umożliwi Ci monitorowanie statusu dostawy w czasie rzeczywistym.",
+    "text6": "W razie jakichkolwiek pytań dotyczących płatności lub dostawy, prosimy o kontakt za pośrednictwem strony Kontakt dostępnej naW razie jakichkolwiek pytań dotyczących płatności lub dostawy, prosimy o kontakt za pośrednictwem strony Kontakt dostępnej na https://coffeeonlineslot.com .Jesteśmy tu, aby pomóc!",
+
+    "item1": "Płatność kartą kredytową/debetową (Visa, MasterCard)",
+    "item2": "Przelew bankowy",
+    "item3": "Płatność online za pośrednictwem bezpiecznych systemów płatności",
+    "item4": "Płatność za pobraniem przy odbiorze (dotyczy wybranych metod dostawy)",
+    "item5": "Dostawa kurierska (2-5 dni roboczych)",
+    "item6": "Paczkomaty (1-3 dni robocze)",
+    "item7": "Dostawa międzynarodowa (5-10 dni roboczych, w zależności od kraju)"
+  },
+  "rules": {
+    "mainTitle": "Regulamin korzystania z Platformy",
+
+    "title1": "1. Postanowienia ogólne",
+    "title2": "2. Rejestracja i dane osobowe",
+    "title3": "3. Zasady korzystania z platformy",
+    "title4": "4. Odpowiedzialność",
+    "title5": "5. Zmiany w regulaminie",
+    "title6": "6. Kontakt",
+
+    "text1": "Niniejszy regulamin określa zasady korzystania z platformy  https://coffeeonlineslot.com  Korzystanie z naszej strony internetowej oznacza akceptację niniejszych warunków. Prosimy o uważne zapoznanie się z regulaminem przed dokonaniem jakichkolwiek zakupów.",
+    "text2": "Podczas składania zamówienia użytkownik jest zobowiązany do podania prawdziwych danych, takich jak: imię i nazwisko, numer telefonu oraz adres e-mail. Informacje te są niezbędne do realizacji zamówienia i kontaktu z klientem. https://coffeeonlineslot.com  gwarantuje ochronę danych osobowych zgodnie z obowiązującymi przepisami o ochronie danych.",
+    "text3": "Użytkownik zobowiązuje się do korzystania z platformy zgodnie z prawem i zasadami określonymi w niniejszym regulaminie. Zabronione jest:",
+    "text4": "Platforma  https://coffeeonlineslot.com  nie ponosi odpowiedzialności za jakiekolwiek szkody wynikające z niewłaściwego korzystania z jej usług przez użytkownika. W przypadku problemów technicznych z platformą użytkownik ma obowiązek niezwłocznie zgłosić je administratorom strony.",
+    "text5": "Zastrzegamy sobie prawo do dokonywania zmian w niniejszym regulaminie w dowolnym momencie. Wszelkie zmiany zostaną opublikowane na tej stronie i zaczną obowiązywać z chwilą ich opublikowania. Korzystanie z platformy po wprowadzeniu zmian oznacza akceptację nowego regulaminu.",
+    "text6": "W razie pytań dotyczących niniejszego regulaminu prosimy o kontakt za pośrednictwem strony Kontakt dostępnej na https://coffeeonlineslot.com.",
+
+    "item1": "Korzystanie z platformy w sposób, który narusza obowiązujące przepisy prawa.",
+    "item2": "Przekazywanie nieprawdziwych lub wprowadzających w błąd informacji podczas rejestracji lub składania zamówień.",
+    "item3": "Wykorzystywanie platformy do działań szkodzących jej funkcjonowaniu."
+  },
+  "warranty": {
+    "mainTitle": "Gwarancja i zwroty",
+
+    "title1": "1. Gwarancja na produkty",
+    "title2": "2. Zasady zwrotów",
+    "title3": "3. Proces zwrotu środków",
+    "title4": "4. Wymiana produktów",
+    "title5": "5. Kontakt",
+
+    "text1": "Wszystkie produkty zakupione w sklepie internetowym https://coffeeonlineslot.com są objęte gwarancją producenta. Gwarancja obejmuje wady fabryczne oraz uszkodzenia wynikające z normalnego użytkowania. Okres gwarancji zależy od konkretnego produktu i jest podany w jego opisie na naszej stronie.",
+    "text2": "W przypadku stwierdzenia wady zakupionego produktu, prosimy o natychmiastowy kontakt z naszym działem obsługi klienta za pośrednictwem strony Kontakt dostępnej na Kontakt.",
+    "text3": "Klient ma prawo do zwrotu zakupionego towaru w ciągu 14 dni od dnia otrzymania przesyłki bez podania przyczyny. Aby skorzystać z prawa do odstąpienia od umowy, prosimy o kontakt z naszym działem obsługi klienta oraz wypełnienie formularza zwrotu dostępnego na stronie.",
+    "text4": "Zwracany produkt musi być w stanie nienaruszonym, w oryginalnym opakowaniu i bez śladów użytkowania. Koszty przesyłki zwrotnej pokrywa klient, chyba że zwrot jest wynikiem błędu z naszej strony (np. wysłanie niewłaściwego produktu).",
+    "text5": "Po otrzymaniu i sprawdzeniu zwróconego towaru, środki zostaną zwrócone na konto klienta w ciągu 14 dni roboczych. Zwrot środków będzie dokonany za pomocą tej samej metody płatności, którą klient użył podczas zakupu, chyba że zostanie ustalone inaczej.",
+    "text6": "W przypadku chęci wymiany produktu na inny, prosimy o kontakt z naszym działem obsługi klienta. Wymiana produktów jest możliwa, o ile zamówiony produkt jest dostępny na stanie. W takim przypadku należy odesłać zakupiony towar, a my wyślemy nowy po otrzymaniu zwróconego produktu.",
+    "text7": "W przypadku pytań dotyczących gwarancji lub zwrotów, prosimy o kontakt z naszym działem obsługi klienta za pośrednictwem strony Kontakt dostępnej na Kontakt. Chętnie odpowiemy na wszelkie pytania i pomożemy w rozwiązaniu ewentualnych problemów."
+  },
+  "privacy": {
+    "mainTitle": "Polityka prywatności",
+
+    "title1": "1. Informacje ogólne",
+    "title2": "2. Zakres gromadzonych danych",
+    "title3": "3. Cele przetwarzania danych",
+    "title4": "4. Ochrona danych",
+    "title5": "5. Prawa użytkowników",
+    "title6": "6. Pliki cookie",
+    "title7": "7. Zmiany w polityce prywatności",
+    "title8": "8. Kontakt",
+
+    "text1": "Niniejsza polityka prywatności określa zasady przetwarzania danych osobowych użytkowników korzystających ze strony internetowej https://coffeeonlineslot.com . Ochrona prywatności naszych klientów jest dla nas priorytetem, dlatego gromadzimy i przetwarzamy dane osobowe zgodnie z obowiązującymi przepisami prawa, w tym zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 (RODO).",
+    "text2": "Podczas składania zamówienia lub rejestracji na naszej stronie, możemy poprosić o podanie następujących danych:",
+    "text3": "Dane te są niezbędne do realizacji zamówień oraz kontaktu z klientami w razie pytań lub problemów.",
+    "text4": "Przetwarzamy dane osobowe użytkowników w celu:",
+    "text5": "Wszystkie dane osobowe użytkowników są chronione za pomocą odpowiednich środków technicznych i organizacyjnych, które zapewniają ich bezpieczeństwo przed nieautoryzowanym dostępem, zmianą lub zniszczeniem. Dostęp do danych mają jedynie upoważnione osoby, które są zobowiązane do zachowania poufności.",
+    "text6": "Każdy użytkownik ma prawo do:",
+    "text7": "Nasza strona internetowa korzysta z plików cookie w celu poprawy jakości świadczonych usług oraz dostosowania treści do indywidualnych preferencji użytkownika. Użytkownik może zarządzać ustawieniami plików cookie za pomocą przeglądarki internetowej. Szczegółowe informacje na ten temat znajdują się w naszej Polityce Cookies.",
+    "text8": "Zastrzegamy sobie prawo do wprowadzania zmian w niniejszej polityce prywatności. Wszelkie zmiany będą publikowane na tej stronie. Zalecamy regularne przeglądanie polityki w celu zapoznania się z aktualnymi zasadami ochrony danych.",
+    "text9": "W przypadku pytań dotyczących polityki prywatności prosimy o kontakt za pośrednictwem strony Kontakt.",
+
+    "item1": "Imię i nazwisko",
+    "item2": "Adres e-mail",
+    "item3": "Numer telefonu",
+    "item4": "Adres dostawy",
+    "item5": "Realizacji zamówień złożonych przez użytkowników",
+    "item6": "Kontaktowania się w sprawach związanych z zamówieniami",
+    "item7": "Informowania o nowościach, promocjach oraz ofertach specjalnych, jeśli użytkownik wyraził zgodę na otrzymywanie newslettera",
+    "item8": "Poprawy funkcjonalności strony oraz analizy ruchu na stronie",
+    "item9": "Dostępu do swoich danych osobowych",
+    "item10": "Poprawiania, usuwania lub ograniczenia przetwarzania danych",
+    "item11": "Wycofania zgody na przetwarzanie danych w dowolnym momencie",
+    "item12": "Przenoszenia danych do innego administratora danych",
+    "item13": "Złożenia skargi do organu nadzorczego w przypadku naruszenia przepisów dotyczących ochrony danych osobowych"
+  },
+  "footer": {
+    "link1": "Główny",
+    "link2": "Kawa",
+    "link3": "Jak to działa",
+    "link5": "Polityka prywatności |",
+    "link6": "Regulamin korzystania z Platformy |",
+    "link7": "Gwarancja i zwroty |",
+    "link8": "Opłata i dostawa",
+
+    "text1": "Pomoc",
+    "text2": "Działy"
+  }
+}
