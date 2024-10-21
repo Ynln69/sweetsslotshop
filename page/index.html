@@ -64,7 +64,7 @@
     />
 
     <!-- CSS Stylesheet -->
-    <link rel="stylesheet" href="../../css/styles.css" />
+    <link rel="stylesheet" href="../css/main.css" />
 
     <!-- JSON-LD Structured Data -->
     <script type="application/ld+json">
@@ -88,21 +88,19 @@
           <a href="" class="logotype link">
             <em>Sweet</em>&nbsp; Slot Shop
             <svg width="24" height="24" class="logotype-img">
-              <use href="./images/symbol-defs.svg#chocolate"></use>
+              <use href="../images/symbol-defs.svg#chocolate"></use>
             </svg>
           </a>
-          <button type="button" class="mobile-menu">
-            <svg width="28" height="28" class="burger-menu">
-              <use href="./images/symbol-defs.svg#menu"></use>
-            </svg>
-          </button>
           <ul class="menu list">
-            <li class="menu-item"><a href="#home" class="link">Home</a></li>
+            <li class="menu-item"><a href="../#home" class="link">Home</a></li>
             <li class="menu-item">
-              <a href="#about" class="link">How it`s Made?</a>
+              <a href="../#about" class="link">How it`s Made?</a>
             </li>
             <li class="menu-item">
-              <a href="#review" class="link">Chocolate is love</a>
+              <a href="../page/index.html" class="link active-link">Our chocolate</a>
+            </li>
+            <li class="menu-item">
+              <a href="../#review" class="link">Chocolate is love</a>
             </li>
           </ul>
         </nav>
@@ -138,100 +136,109 @@
 
     <footer class="footer">
       <div class="container footer-container">
+        <h2 class="title footer-title">
+          <span class="accent">Chocolate</span> a delicious cure for a bad day
+        </h2>
+        <ul class="footer-contact list">
+          <li class="contact-item">
+            <p class="contact-text" data-translate="footer.text1">
+              Contact us
+            </p>
+          </li>
+          <li class="footer-nav-item">
+            <a
+              href="https://sweetsslotshop.com"
+              class="link"
+              target="_blank"
+              data-translate="footer.link1"
+              >Sweetsslotshop.com</a
+            >
+          </li>
+        </ul>
         <nav class="footer-nav">
-          <a href="../">
-            <img
-              src="../img/logo.png"
-              alt="logo of site"
-              width="200"
-              height="200"
-            />
-          </a>
-          <ul class="footer-nav-list">
-            <li>
-              <p class="footer-item-text" data-translate="footer.text1">
-                Pomoc
-              </p>
-            </li>
-            <li>
-              <a
-                href="../polityka-page.html"
-                class="footer-item-link"
-                data-translate="footer.link5"
-                >Polityka prywatności |
-              </a>
-            </li>
-            <li>
-              <a
-                href="../regulamin-page.html"
-                class="footer-item-link"
-                data-translate="footer.link6"
-              >
-                Regulamin korzystania z Platformy |</a
-              >
-            </li>
-            <li>
-              <a
-                href="../gwarancja-page.html"
-                class="footer-item-link"
-                data-translate="footer.link7"
-              >
-                Gwarancja i zwroty |</a
-              >
-            </li>
-            <li>
-              <a
-                href="../opłata-page.html"
-                class="footer-item-link"
-                data-translate="footer.link8"
-              >
-                Opłata i dostawa</a
-              >
-            </li>
-          </ul>
-          <ul class="footer-nav-list">
-            <li>
-              <p class="footer-item-text" data-translate="footer.text2">
-                Działy
-              </p>
-            </li>
+          <ul class="footer-nav-list list">
             <li class="footer-nav-item">
               <a
-                href="../"
-                class="footer-item-link"
+                href="./"
+                class="link"
                 data-translate="footer.link1"
-                >Główny</a
+                >Home</a
               >
             </li>
             <li class="footer-nav-item">
               <a
-                href="../page/index.html"
-                class="footer-item-link"
+                href="#about"
+                class="link"
                 data-translate="footer.link2"
               >
-                Kawa</a
+                How it’s made?</a
               >
             </li>
             <li class="footer-nav-item">
               <a
-                href="../#how"
-                class="footer-item-link"
+                href="./page/index.html"
+                class="link"
                 data-translate="footer.link3"
               >
-                Jak to działa</a
+                Our Products</a
+              >
+            </li>
+            <li class="footer-nav-item">
+              <a
+                href="#review"
+                class="link"
+                data-translate="footer.link3"
+              >
+                Chocolate is loved</a
               >
             </li>
           </ul>
         </nav>
+        <ul class="footer-list list">
+          <li>
+            <a
+              href="./page/policy-page.html"
+              class="link"
+              data-translate="footer.link5"
+              >Polityka prywatności 
+            </a>
+          </li>
+          <li>
+            <a
+              href="./page/returns-page.html"
+              class="link"
+              data-translate="footer.link6"
+            >
+              Regulamin korzystania z Platformy </a
+            >
+          </li>
+          <li>
+            <a
+              href="./page/terms-page.html"
+              class="link"
+              data-translate="footer.link7"
+            >
+              Gwarancja i zwroty </a
+            >
+          </li>
+          <li>
+            <a
+              href="./page/payment-page.html"
+              class="link"
+              data-translate="footer.link8"
+            >
+              Opłata i dostawa</a
+            >
+          </li>
+        </ul>
         <p class="footer-text">
-          © Sklep-internetowy «coffeeonlineslot.com™» 2001–2024.
+          © Sklep-internetowy «sweetsslotshop.com™» 2010–2024.
         </p>
       </div>
     </footer>
-
     <script src="https://unpkg.com/i18next-xhr-backend@latest/i18nextXHRBackend.min.js"></script>
     <script src="https://unpkg.com/i18next@21.6.11/dist/umd/i18next.min.js"></script>
     <script type="module" src="../js/translator.js"></script>
-    <script type="module" src="../js/coffee-products.js"></script>
+    <script type="module" src="../js/chocolate-card.js"></script>
   </body>
 </html>

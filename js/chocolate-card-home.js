@@ -26,8 +26,8 @@ document.addEventListener("DOMContentLoaded", () => {
               <p class="products-text">
               ${product.description}
               </p>
-              <p lass="products-price">
-              ${product.price}
+              <p class="products-price">
+              ${product.price} PLN
               </p>
           `;
           chocolateList.appendChild(li);

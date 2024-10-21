@@ -27,18 +27,18 @@ document.addEventListener("DOMContentLoaded", () => {
           const translateKeyDesc = `coffee.cardDesc${product.id}`;
 
           li.innerHTML = `
-            <img src="../../${product.photo}" alt="${product.title}" class="products-item-img">
+            <img src="../${product.photo}" alt="${product.title}" class="products-item-img">
               <h3 class="products-subtitle">
               ${product.title}
               </h3>
               <p class="products-text">
               ${product.description}
               </p>
-              <p lass="products-price">
-              ${product.price}PLN
+              <p class="products-price">
+              ${product.price} PLN
               </p>
           `;
-          coffeesList.appendChild(li);
+          chocolateList.appendChild(li);
         });
       }
 

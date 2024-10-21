@@ -42,29 +42,13 @@
   font-weight: 600;
 }
 .hero-link {
+  display: inline-block;
   height: 45px;
   padding: 12px 28px;
   border: 1px solid var(--secondaryTextColor);
   border-radius: 100px;
 
   color: var(--secondaryTextColor);
-}
-.scroll {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-
-  font-weight: 500;
-  line-height: 129%;
-  letter-spacing: -0.03em;
-  color: var(--secondaryTextColor);
-}
-.scroll-svg {
-  height: 38px;
-  border-radius: 100%;
-  background-color: #fff;
-  padding: 8px;
-  fill: var(--accentColor);
 }
 
 @media screen and (min-width: 768px) {

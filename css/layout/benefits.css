@@ -25,7 +25,8 @@
 }
 .benefits-item {
   position: relative;
-  width: 308px;
+  width: 100%;
+  max-width: 308px;
   @media (min-width: 1440px) {
     &::after {
       position: absolute;
@@ -55,6 +56,7 @@
   font-size: 18px;
 }
 .benefits-text {
+  width: 100%;
   color: var(--benefitsTextColor);
 
   line-height: 129%;

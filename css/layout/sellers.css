@@ -1,0 +1,26 @@
+.sellers-list {
+  display: grid;
+  gap: 32px;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 344px));
+  align-items: center;
+  justify-content: center;
+}
+.sellers-item {
+  border-bottom: 1px solid rgba(17, 17, 17, 0.1);
+  border-left: 1px solid rgba(17, 17, 17, 0.1);
+  border-right: 1px solid rgba(17, 17, 17, 0.1);
+  border-radius: 0 0 15px 15px;
+}
+.sellers-thumb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 56px;
+}
+.sellers-title {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 133%;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+}

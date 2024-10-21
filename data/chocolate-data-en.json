@@ -1,74 +1,74 @@
 {
-  "coffees": [
+  "chocolate": [
     {
       "id": 1,
-      "photo": "img/coffee-card/card-1.png",
-      "title": "Arabica Ethiopia",
+      "photo": "images/prodacts/card-1.webp",
+      "title": "orange",
       "price": "69",
-      "description": "A delicate coffee with floral aromas and citrus notes. Ideal for those who prefer a light taste."
+      "description": "Dark chocolate"
     },
     {
       "id": 2,
-      "photo": "img/coffee-card/card-2.png",
-      "title": "Arabica Colombia",
+      "photo": "images/prodacts/card-2.webp",
+      "title": "APPLE&CRANBERRY",
       "price": "75",
-      "description": "An exceptionally balanced coffee with subtle fruity flavors and delicate acidity."
+      "description": "Milk chocolate"
     },
     {
       "id": 3,
-      "photo": "img/coffee-card/card-3.png",
-      "title": "Arabica Brazil Santos",
+      "photo": "images/prodacts/card-3.webp",
+      "title": "lime&sea salt",
       "price": "65",
-      "description": "An aromatic coffee with nutty and chocolate notes, perfect for espresso."
+      "description": "Dark chocolate"
     },
     {
       "id": 4,
-      "photo": "img/coffee-card/card-4.png",
-      "title": "Arabica Guatemala",
+      "photo": "images/prodacts/card-4.webp",
+      "title": "pineapple",
       "price": "79",
-      "description": "A coffee with a complex flavor profile, featuring caramel and chocolate notes. Perfect for an afternoon relaxation."
+      "description": "Dark chocolate"
     },
     {
       "id": 5,
-      "photo": "img/coffee-card/card-5.png",
-      "title": "Arabica Kenya AA",
+      "photo": "images/prodacts/card-5.webp",
+      "title": "Classic",
       "price": "89",
-      "description": "A bold coffee with intense fruity flavors and mild acidity. Ideal for special occasions."
+      "description": "Milk chocolate"
     },
     {
       "id": 6,
-      "photo": "img/coffee-card/card-6.png",
-      "title": "Arabica Peru",
+      "photo": "images/prodacts/card-6.webp",
+      "title": "honey",
       "price": "69",
-      "description": "An organic coffee with a smooth taste, featuring caramel and honey notes."
+      "description": "Milk chocolate"
     },
     {
       "id": 7,
-      "photo": "img/coffee-card/card-7.png",
-      "title": "Arabica Sumatra",
+      "photo": "images/prodacts/card-7.webp",
+      "title": "Roasted fruits",
       "price": "95",
-      "description": "A coffee with a full, earthy taste with spice and chocolate notes. Perfect for connoisseurs."
+      "description": "Dark chocolate"
     },
     {
       "id": 8,
-      "photo": "img/coffee-card/card-8.png",
-      "title": "Robusta India",
+      "photo": "images/prodacts/card-8.webp",
+      "title": "Classic",
       "price": "55",
-      "description": "A strong coffee with an intense flavor and high caffeine content. Perfect for a morning boost."
+      "description": "White chocolate"
     },
     {
       "id": 9,
-      "photo": "img/coffee-card/card-9.png",
-      "title": "Espresso Blend",
+      "photo": "images/prodacts/card-9.webp",
+      "title": "Raspberry & White Chocolate",
       "price": "79",
-      "description": "A carefully selected blend of Arabica and Robusta, perfect for making strong espresso."
+      "description": "White Chocolate"
     },
     {
       "id": 10,
-      "photo": "img/coffee-card/card-10.png",
-      "title": "Arabica Costa Rica",
+      "photo": "images/prodacts/card-10.webp",
+      "title": "Caramel & Sea Salt",
       "price": "85",
-      "description": "A bright coffee with citrus and honey notes. Perfect for those who enjoy subtle aromas."
+      "description": "Milk chocolate"
     }
   ]
 }

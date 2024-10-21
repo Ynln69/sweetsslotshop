@@ -2,40 +2,40 @@ document.addEventListener("DOMContentLoaded", () => {
   const productsPerPage = 6;
   let currentPage = 1;
 
-  fetch("../../data/chocolate-card-en.json")
+  fetch("../../data/chocolate-data-en.json")
     .then((response) => response.json())
     .then((data) => {
-      let coffeeData = data.coffees;
-      const coffeesList = document.getElementById("products-list");
+      let chocolateData = data.chocolate;
+      const chocolateList = document.getElementById("products-list");
       const paginationContainer = document.getElementById("pagination");
 
-      if (!coffeesList) {
+      if (!chocolateList) {
         return;
       }
 
       function displayProducts(page) {
-        coffeesList.innerHTML = "";
+        chocolateList.innerHTML = "";
         const start = (page - 1) * productsPerPage;
         const end = start + productsPerPage;
-        const coffeeToDisplay = coffeeData.slice(start, end);
+        const chocolateToDisplay = chocolateData.slice(start, end);
 
-        coffeeToDisplay.forEach((product) => {
+        chocolateToDisplay.forEach((product) => {
           const li = document.createElement("li");
           li.classList.add("products-item");
 
           li.innerHTML = `
-            <img src="../../${product.photo}" alt="${product.title}" class="coffee-item-img">
+            <img src="../../../${product.photo}" alt="${product.title}" class="products-item-img">
               <h3 class="products-subtitle">
               ${product.title}
               </h3>
               <p class="products-text">
               ${product.description}
               </p>
-              <p lass="products-price">
-              ${product.price}
+              <p class="products-price">
+              ${product.price} $
               </p>
           `;
-          coffeesList.appendChild(li);
+          chocolateList.appendChild(li);
         });
       }
 
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         paginationContainer.innerHTML = "";
 
-        const pageCount = Math.ceil(coffeeData.length / productsPerPage);
+        const pageCount = Math.ceil(chocolateData.length / productsPerPage);
 
         if (pageCount <= 1) {
           return;
