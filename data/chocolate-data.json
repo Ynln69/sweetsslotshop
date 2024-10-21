@@ -3,72 +3,72 @@
     {
       "id": 1,
       "photo": "../images/prodacts/card-1.webp",
-      "title": "orange",
+      "title": "pomarańczowa",
       "price": "69",
-      "description": "Dark chocolate"
+      "description": "Ciemna czekolada"
     },
     {
       "id": 2,
       "photo": "../images/prodacts/card-2.webp",
-      "title": "APPLE&CRANBERRY",
+      "title": "JABŁKO & ŻURAWINA",
       "price": "75",
-      "description": "Milk chocolate"
+      "description": "Czekolada mleczna"
     },
     {
       "id": 3,
       "photo": "../images/prodacts/card-3.webp",
-      "title": "lime&sea salt",
+      "title": "limonka & sól morska",
       "price": "65",
-      "description": "Dark chocolate"
+      "description": "Ciemna czekolada"
     },
     {
       "id": 4,
       "photo": "../images/prodacts/card-4.webp",
-      "title": "pineapple",
+      "title": "ananas",
       "price": "79",
-      "description": "Dark chocolate"
+      "description": "Ciemna czekolada"
     },
     {
       "id": 5,
       "photo": "../images/prodacts/card-5.webp",
-      "title": "Classic",
+      "title": "Klasyczna",
       "price": "89",
-      "description": "Milk chocolate"
+      "description": "Czekolada mleczna"
     },
     {
       "id": 6,
       "photo": "../images/prodacts/card-6.webp",
-      "title": "honey",
+      "title": "miód",
       "price": "69",
-      "description": "Milk chocolate"
+      "description": "Czekolada mleczna"
     },
     {
       "id": 7,
       "photo": "../images/prodacts/card-7.webp",
-      "title": "Roasted fruits",
+      "title": "Pieczone owoce",
       "price": "95",
-      "description": "Dark chocolate"
+      "description": "Ciemna czekolada"
     },
     {
       "id": 8,
       "photo": "../images/prodacts/card-8.webp",
-      "title": "Classic",
+      "title": "Klasyczna",
       "price": "55",
-      "description": "White chocolate"
+      "description": "Czekolada biała"
     },
     {
       "id": 9,
       "photo": "../images/prodacts/card-9.webp",
-      "title": "Raspberry & White Chocolate",
+      "title": "Malina & czekolada biała",
       "price": "79",
-      "description": "White Chocolate"
+      "description": "Czekolada biała"
     },
     {
       "id": 10,
       "photo": "../images/prodacts/card-10.webp",
-      "title": "Caramel & Sea Salt",
+      "title": "Karmel & sól morska",
       "price": "85",
-      "description": "Milk chocolate"
+      "description": "Czekolada mleczna"
     }
   ]
 }

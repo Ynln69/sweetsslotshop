@@ -2,7 +2,6 @@
   display: grid;
   gap: 32px;
   grid-template-columns: repeat(auto-fit, minmax(320px, 344px));
-  align-items: center;
   justify-content: center;
 }
 .sellers-item {

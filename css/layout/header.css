@@ -7,10 +7,13 @@
     padding: 20px 0;
   }
 }
+.header-container {
+  display: flex;
+  justify-content: space-between;
+}
 .logotype {
   display: flex;
   align-items: center;
-  margin-right: auto;
   font-weight: 700;
   line-height: 111%;
   letter-spacing: -0.03em;
@@ -23,7 +26,7 @@
   width: 100%;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 .mobile-menu {
   border: none;
@@ -37,10 +40,7 @@
 }
 
 @media screen and (min-width: 768px) {
-  .header-container {
-    display: flex;
-    justify-content: space-between;
-  }
+  
   .mobile-menu {
     display: none;
   }
@@ -84,4 +84,24 @@
 
 .active-link {
   color: var(--accentColor);
+}
+
+.language-switcher {
+  display: flex;
+  gap: 10px;
+}
+
+.lang-btn {
+  padding: 15px;
+  border: 1px solid var(--accentColor);
+  border-radius: 100px;
+
+  background-color: transparent;
+  font-weight: 600;
+
+  &:hover,
+  &:focus {
+    background-color: var(--accentColor);
+    color: var(--secondaryTextColor);
+  }
 }

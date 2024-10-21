@@ -1,68 +1,100 @@
 {
   "header": {
-    "link1": "Main",
-    "link2": "Coffee",
-    "link3": "Payment and Delivery",
-    "link4": "Our Offer"
+    "logo1": "Sweet Slot Shop",
+    "link1": "Home",
+    "link2": "How it`s Made?",
+    "link3": "Our chocolate",
+    "link4": "Chocolate is love"
+  },
+  "hero": {
+    "title": "Treat yourself or a loved one to our finest ingredients for a moment of pure delight!",
+    "link": "How it’s made"
+  },
+  "benefits": {
+    "title1": "Unsurpassed taste",
+    "title2": "Affordable price",
+     "title3": "Own production",
+
+     "text1": "Crafted with the finest quality cocoa beans and a dedication to perfection, each bite is a decadent experience that simplycannot be matched. Savor the richness and complexity of our Unsurpassed Taste and discover a new level of chocolate bliss.",
+     "text2": "Indulge in high-quality chocolate without breaking the bank with Simply Chocolate's selection of affordable treats. Enjoy mouth-watering truffles and velvety chocolate bars without sacrificing taste or quality. Browse our selection and indulge in affordable luxury today.", 
+     "text3": " We take pride in our own production process, ensuring that every step is carefully crafted to perfection. From selecting the finest ingredients to handcrafting each piece, our attention to detail is evident in every bite."
+  },
+  "ingridients": {
+    "mainTitle": "it all adds up to one exceptional taste sensation",
+
+    "title1": "Milk Chocolate",
+    "title2": "Milk",
+    "title3": "Nuts",
+    "title4": "Semi - Sweet chocolate",
+    "title5": "Cacao",
+    "title6": "Raspberry",
+    "title7": "Coconut oil"
+
   },
   "about": {
-    "title1": "coffeeonlineslot",
-    "title2": "Savor the moment with coffeeonlineslot",
-    "desc1": "Freshly roasted coffee for everyone. We carefully select the best coffee beans and roast them specifically for your brewing method to provide an unforgettable experience with every cup.",
-    "desc2": "Coffee is more than just a drink. It's a moment of inspiration, relaxation, and enjoyment with every sip. Experience the true taste of life with us and discover your favorite aroma in every cup.",
-    "aboutBtn": "Choose coffee"
+    "mainTitle": "how it`s  made?",
+
+    "title": "Try our chocolates today and discover the perfect balance of flavor",
+    "desc1": "Heat the milk in a saucepan without bringing it to a boil. Add sugar and cocoa powder.",
+    "desc2": "At the same time, prepare a water bath. Melt the butter on it.",
+    "desc3": "Mix the milk mixture and already liquid butter. Mix thoroughly with a silicone spatula so that the mass becomes uniform and silky.",
+    "desc4": "Heat the mixture over low heat, letting it barely boil.",
+    "desc5": "Pour the chocolate into special containers (can be replaced with ice molds). Allow to cool and harden."
   },
-  "howItWork": {
-    "mainTitle": "We'll explain in simple terms how we work.",
-    "text": "Coffee varieties and brewing methods are as diverse as we are. However, supermarket coffee is equally bad.",
+  "products": {
+    "mainTitle": "Our products",
 
-    "title1": "One",
-    "title2": "Two",
-    "title3": "Three",
-    "title4": "Four",
-
-    "desc1": "You choose any coffee variety, brewing method, grind, and packaging.",
-    "desc2": "We don’t have pre-roasted coffee, so we take green beans of the selected variety.",
-    "desc3": "We roast them on the day of your order, tailored to your brewing method.",
-    "desc4": "We send freshly roasted coffee by the method most convenient for you."
+    "link": "Check all"
   },
-  "coffee": {
-    "mainTitile": "Freshly Roasted Coffee",
+  "sellers": {
+    "mainTitle": "Top Sellers",
 
-    "cardTitle1": "Arabica Ethiopia",
-    "cardDesc1": "A delicate coffee with floral aromas and citrus notes. Ideal for those who prefer a light taste.",
+    "title1": "Chocolate with nuts",
+    "title2": "Chocolate with fruit",
+    "title3": "Dark chocolate"
+  },
+  "review": {
+    "mainTitle": "Chocolate is loved",
 
-    "cardTitle2": "Arabica Colombia",
-    "cardDesc2": "An exceptionally balanced coffee with subtle fruity flavors and delicate acidity.",
+    "title1": "Victoria Dobrzhanska",
+    "title2": "Nazar Babenko",
+    "title3": "Olena Kampusch",
 
-    "cardTitle3": "Arabica Brazil Santos",
-    "cardDesc3": "An aromatic coffee with nutty and chocolate notes, perfect for espresso.",
+    "text1": "I love this chocolate bar. Perfect combination of light crispy wafer, covered in a thin layer chocolate.",
+    "text2": "This chocolate confection is a delight! A delight! The wafer is light and crisp, the hazelnut cream is smooth, and the chocolate is good.",
+    "text3": "Chocolate is a family favourite treat. Love the delicious smooth chocolate and the creaminess inside. The wafer is soft but crunchy."
+  },
+  "chocolate": {
 
-    "cardTitle4": "Arabica Guatemala",
-    "cardDesc4": "A coffee with a complex flavor profile, featuring caramel and chocolate notes. Perfect for an afternoon relaxation.",
+    "cardTitle1": "orange",
+    "cardDesc1": "Dark chocolate",
 
-    "cardTitle5": "Arabica Kenya AA",
-    "cardDesc5": "A bold coffee with intense fruity flavors and mild acidity. Ideal for special occasions.",
+    "cardTitle2": "APPLE&CRANBERRY",
+    "cardDesc2": "Milk chocolate",
 
-    "cardTitle6": "Arabica Peru",
-    "cardDesc6": "An organic coffee with a smooth taste, featuring caramel and honey notes.",
+    "cardTitle3": "lime&sea salt",
+    "cardDesc3": "Dark chocolate",
 
-    "cardTitle7": "Arabica Sumatra",
-    "cardDesc7": "A coffee with a full, earthy taste with spice and chocolate notes. Perfect for connoisseurs.",
+    "cardTitle4": "pineapple",
+    "cardDesc4": "Dark chocolate",
 
-    "cardTitle8": "Robusta India",
-    "cardDesc8": "A strong coffee with an intense flavor and high caffeine content. Perfect for a morning boost.",
+    "cardTitle5": "Classic",
+    "cardDesc5": "Milk chocolate",
 
-    "cardTitle9": "Espresso Blend",
-    "cardDesc9": "A carefully selected blend of Arabica and Robusta, perfect for making strong espresso.",
+    "cardTitle6": "honey",
+    "cardDesc6": "Milk chocolate",
 
-    "cardTitle10": "Arabica Costa Rica",
-    "cardDesc10": "A bright coffee with citrus and honey notes. Perfect for those who enjoy subtle aromas.",
+    "cardTitle7": "Roasted fruits",
+    "cardDesc7": "Dark chocolate",
 
-    "cardQuantity": "Number",
-    "cardPrice": "Price",
-    "mainTitle": "our products",
-    "mainBtn": "go to catalog"
+    "cardTitle8": "Classic",
+    "cardDesc8": "White chocolate",
+
+    "cardTitle9": "Raspberry & White Chocolate",
+    "cardDesc9": "White Chocolate",
+
+    "cardTitle10": "Caramel & Sea Salt",
+    "cardDesc10": "Milk chocolate"
   },
   "payment": {
     "mainTitle": "Payment and Delivery",
@@ -72,12 +104,12 @@
     "title3": "Order Tracking",
     "title4": "Contact",
 
-    "text1": "In our online store https://coffeeonlineslot.com we offer a variety of convenient payment methods to ensure a comfortable shopping experience for our customers. You can choose one of the following payment options:",
+    "text1": "In our online store https://sweetsslotshop.com we offer a variety of convenient payment methods to ensure a comfortable shopping experience for our customers. You can choose one of the following payment options:",
     "text2": "All payments are processed securely, ensuring the protection of your personal and financial data.",
     "text3": "We deliver our products within Poland and to many European countries. We offer the following delivery options:",
     "text4": "Delivery costs are automatically calculated during checkout and depend on the chosen delivery method and location.",
     "text5": "After your order is shipped, you will receive a tracking number that allows you to monitor the delivery status in real time.",
-    "text6": "If you have any questions regarding payment or delivery, please contact us via the Contact page available at https://coffeeonlineslot.com. We're here to help!",
+    "text6": "If you have any questions regarding payment or delivery, please contact us via the Contact page available at https://sweetsslotshop.com. We're here to help!",
 
     "item1": "Credit/debit card payment (Visa, MasterCard)",
     "item2": "Bank transfer",
@@ -97,12 +129,12 @@
     "title5": "5. Changes to the Terms",
     "title6": "6. Contact",
 
-    "text1": "These terms of use define the rules for using the platform https://coffeeonlineslot.com. Using our website means accepting these terms. Please read the terms carefully before making any purchases.",
-    "text2": "When placing an order, the user is required to provide accurate information, such as name, phone number, and email address. This information is necessary to fulfill the order and contact the customer. https://coffeeonlineslot.com guarantees the protection of personal data in accordance with applicable data protection regulations.",
+    "text1": "These terms of use define the rules for using the platform https://sweetsslotshop.com. Using our website means accepting these terms. Please read the terms carefully before making any purchases.",
+    "text2": "When placing an order, the user is required to provide accurate information, such as name, phone number, and email address. This information is necessary to fulfill the order and contact the customer. https://sweetsslotshop.com guarantees the protection of personal data in accordance with applicable data protection regulations.",
     "text3": "The user agrees to use the platform in accordance with the law and the rules outlined in these terms. The following is prohibited:",
-    "text4": "The platform https://coffeeonlineslot.com is not responsible for any damages resulting from improper use of its services by the user. In the event of technical problems with the platform, the user must immediately report them to the website administrators.",
+    "text4": "The platform https://sweetsslotshop.com is not responsible for any damages resulting from improper use of its services by the user. In the event of technical problems with the platform, the user must immediately report them to the website administrators.",
     "text5": "We reserve the right to make changes to these terms at any time. All changes will be published on this page and will take effect upon publication. Continued use of the platform after changes are made constitutes acceptance of the new terms.",
-    "text6": "If you have any questions regarding these terms, please contact us via the Contact page available at https://coffeeonlineslot.com.",
+    "text6": "If you have any questions regarding these terms, please contact us via the Contact page available at https://sweetsslotshop.com.",
 
     "item1": "Using the platform in a way that violates applicable laws.",
     "item2": "Providing false or misleading information during registration or when placing orders.",
@@ -117,7 +149,7 @@
     "title4": "4. Product Exchange",
     "title5": "5. Contact",
 
-    "text1": "All products purchased in the online store https://coffeeonlineslot.com are covered by the manufacturer's warranty. The warranty covers manufacturing defects and damages resulting from normal use. The warranty period depends on the specific product and is provided in its description on our website.",
+    "text1": "All products purchased in the online store https://sweetsslotshop.com are covered by the manufacturer's warranty. The warranty covers manufacturing defects and damages resulting from normal use. The warranty period depends on the specific product and is provided in its description on our website.",
     "text2": "If a defect is found in the purchased product, please contact our customer service department immediately via the Contact page available on the website.",
     "text3": "The customer has the right to return the purchased product within 14 days from the date of receiving the package without providing any reason. To exercise the right to withdraw from the contract, please contact our customer service department and fill out the return form available on the website.",
     "text4": "The returned product must be in its original condition, in its original packaging, and without signs of use. The cost of return shipping is borne by the customer unless the return is due to an error on our part (e.g., sending the wrong product).",
@@ -137,7 +169,7 @@
     "title7": "7. Changes to the Privacy Policy",
     "title8": "8. Contact",
 
-    "text1": "This privacy policy defines the rules for processing personal data of users using the website https://coffeeonlineslot.com. Protecting the privacy of our customers is our priority, which is why we collect and process personal data in accordance with applicable laws, including Regulation (EU) 2016/679 of the European Parliament and of the Council (GDPR).",
+    "text1": "This privacy policy defines the rules for processing personal data of users using the website https://sweetsslotshop.com. Protecting the privacy of our customers is our priority, which is why we collect and process personal data in accordance with applicable laws, including Regulation (EU) 2016/679 of the European Parliament and of the Council (GDPR).",
     "text2": "When placing an order or registering on our website, we may ask you to provide the following information:",
     "text3": "This data is necessary to fulfill orders and contact customers in case of questions or issues.",
     "text4": "We process users' personal data for the following purposes:",
@@ -162,15 +194,17 @@
     "item13": "Filing a complaint with a supervisory authority in case of a violation of data protection regulations"
   },
   "footer": {
-    "link1": "Main",
-    "link2": "Coffee",
-    "link3": "How it work",
-    "link5": "Privacy Policy |",
-    "link6": "Terms of Use |",
-    "link7": "Warranty and Returns |",
+    "mainTitle": "Chocolate a delicious cure for a bad day",
+
+    "link1": "Home",
+    "link2": "How it’s made?",
+    "link3": "Our Products",
+    "link4": "Chocolate is loved",
+    "link5": "Privacy Policy ",
+    "link6": "Terms of Use ",
+    "link7": "Warranty and Returns",
     "link8": "Payment and Delivery",
 
-    "text1": "Help",
-    "text2": "Sections"
+    "text1": "Contact us"
   }
 }

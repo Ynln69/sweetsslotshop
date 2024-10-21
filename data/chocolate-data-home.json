@@ -3,23 +3,23 @@
     {
       "id": 1,
       "photo": "../images/prodacts/card-1.webp",
-      "title": "orange",
+      "title": "pomarańczowa",
       "price": "69",
-      "description": "Dark chocolate"
+      "description": "Ciemna czekolada"
     },
     {
       "id": 2,
       "photo": "../images/prodacts/card-2.webp",
-      "title": "APPLE&CRANBERRY",
+      "title": "JABŁKO & ŻURAWINA",
       "price": "75",
-      "description": "Milk chocolate"
+      "description": "Czekolada mleczna"
     },
     {
       "id": 3,
       "photo": "../images/prodacts/card-3.webp",
-      "title": "lime&sea salt",
+      "title": "limonka & sól morska",
       "price": "65",
-      "description": "Dark chocolate"
+      "description": "Ciemna czekolada"
     }
   ]
 }

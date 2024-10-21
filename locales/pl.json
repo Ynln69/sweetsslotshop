@@ -1,68 +1,99 @@
 {
   "header": {
-    "link1": "Główny",
-    "link2": "Kawa",
-    "link3": "Opłata i dostawa",
-    "link4": "Nasza Oferta"
+    "logo1": "Słodki Sklep Slot",
+
+    "link1": "Strona główna",
+    "link2": "Jak to jest zrobione?",
+    "link3": "Nasza czekolada",
+    "link4": "Czekolada to miłość"
+  },
+  "hero": {
+    "title": "Zafunduj sobie lub bliskiej osobie nasze najwyższej jakości składniki na chwilę czystej przyjemności!",
+    "link": "Jak to jest zrobione"
+  },
+  "benefits": {
+    "title1": "Niezrównany smak",
+    "title2": "Atrakcyjna cena",
+    "title3": "Własna produkcja",
+
+    "text1": "Wykonana z najwyższej jakości ziaren kakao i poświęcenia dla doskonałości, każdy kęs to dekadenckie doświadczenie, którego po prostu nie da się porównać. Rozkoszuj się bogactwem i złożonością naszego Niezrównanego Smaku i odkryj nowy poziom czekoladowego szczęścia.",
+    "text2": "Delektuj się wysokiej jakości czekoladą, nie obciążając portfela, dzięki wyborowi przysmaków Simply Chocolate. Ciesz się rozpływającymi się w ustach truflami i jedwabiście gładkimi tabliczkami czekolady, nie rezygnując z smaku ani jakości. Przeglądaj naszą ofertę i delektuj się przystępnym luksusem już dziś.",
+    "text3": "Jesteśmy dumni z naszego procesu produkcji, zapewniając, że każdy etap jest starannie dopracowany do perfekcji. Od wyboru najlepszych składników po ręczne przygotowanie każdego kawałka, nasza dbałość o szczegóły jest widoczna w każdym kęsie."
+  },
+  "ingridients": {
+    "mainTitle": "wszystko to składa się na wyjątkowe smak doznanie",
+
+    "title1": "Czekolada mleczna",
+    "title2": "Mleko",
+    "title3": "Orzechy",
+    "title4": "Czekolada półsłodka",
+    "title5": "Kakao",
+    "title6": "Malina",
+    "title7": "Olej kokosowy"
   },
   "about": {
-    "title1": "coffeeonlineslot",
-    "title2": "Smakuj chwilę z coffeeonlineslot",
-    "desc1": "Świeżo palona kawa dla wszystkich. Starannie wybieramy najlepsze gatunki kawy i palimy je specjalnie pod twój sposób parzenia, aby podarować niezapomniane wrażenia z każdej filiżanki.",
-    "desc2": "Kawa to coś więcej niż tylko napój. To chwila inspiracji, odpoczynku i przyjemności z każdym łykiem. Poczuj prawdziwy smak życia razem z nami i odkryj swój ulubiony aromat w każdej filiżance.",
-    "aboutBtn": "Wybrać kawę"
+    "mainTitle": "jak to jest zrobione?",
+
+    "title": "Spróbuj naszych czekolad już dziś i odkryj doskonałą równowagę smaku",
+    "desc1": "Podgrzej mleko w rondlu, nie doprowadzając do wrzenia. Dodaj cukier i kakao.",
+    "desc2": "W międzyczasie przygotuj kąpiel wodną. Roztop masło na niej.",
+    "desc3": "Wymieszaj mieszankę mleka z już płynnym masłem. Dokładnie wymieszaj silikonową szpatułką, aby masa stała się jednolita i jedwabista.",
+    "desc4": "Podgrzewaj mieszankę na małym ogniu, pozwalając jej ledwie wrzeć.",
+    "desc5": "Wlej czekoladę do specjalnych pojemników (można zastąpić foremkami na lód). Pozwól ostygnąć i stwardnieć."
   },
-  "howItWork": {
-    "mainTitle": "Wyjaśnimy na palcach, jak działamy.",
-    "text": "Gatunki kawy i sposoby jej parzenia są tak różnorodne, jak my sami. Natomiast kawa z supermarketu jest równie kiepska.",
-
-    "title1": "Raz",
-    "title2": "Dwa",
-    "title3": "Trzy",
-    "title4": "Cztery",
-
-    "desc1": "Wybierasz dowolny gatunek kawy, sposób parzenia, mielenie i opakowanie.",
-    "desc2": "Nie mamy gotowej kawy, dlatego bierzemy zielone ziarno wybranego gatunku.",
-    "desc3": " Palimy je w dniu zamówienia, dostosowując do twojego sposobu parzenia.",
-    "desc4": "Wysyłamy świeżo upaloną kawę w dogodny dla ciebie sposób."
+  "products": {
+    "mainTitle": "Nasze produkty",
+    "link": "Sprawdź wszystko"
   },
-  "coffee": {
-    "mainTitile": "Świeżo palona kawa",
+  "sellers": {
+    "mainTitle": "Sprzedawcy",
+    "span": "Najlepsi",
 
-    "cardTitle1": "Arabica Ethiopia",
-    "cardDesc1": "Delikatna kawa o kwiatowym aromacie z nutami cytrusów. Idealna dla miłośników lekkiego smaku.",
+    "title1": "Czekolada z orzechami",
+    "title2": "Czekolada z owocami",
+    "title3": "Czekolada ciemna"
+  },
+  "review": {
+    "mainTitle": "Czekolada jest uwielbiana",
 
-    "cardTitle2": "Arabica Colombia",
-    "cardDesc2": "Wyjątkowo zrównoważona kawa o subtelnym, owocowym smaku i delikatnej kwasowości.",
+    "title1": "Wiktoria Dobrzańska",
+    "title2": "Nazar Babenko",
+    "title3": "Olena Kampusch",
 
-    "cardTitle3": "Arabica Brazil Santos",
-    "cardDesc3": "Aromatyczna kawa z nutami orzechów i czekolady, idealna do espresso.",
+    "text1": "Uwielbiam tę czekoladę. Doskonałe połączenie lekkiego chrupkiego wafla, pokrytego cienką warstwą czekolady.",
+    "text2": "Ta czekoladowa słodycz to prawdziwa przyjemność! Wafel jest lekki i chrupiący, krem orzechowy gładki, a czekolada pyszna.",
+    "text3": "Czekolada to ulubiony przysmak całej rodziny. Uwielbiam pysznie gładką czekoladę i kremowość w środku. Wafel jest miękki, ale chrupiący."
+  },
+  "chocolate": {
+    "cardTitle1": "pomarańczowa",
+    "cardDesc1": "Ciemna czekolada",
 
-    "cardTitle4": "Arabica Guatemala",
-    "cardDesc4": "Kawa o złożonym profilu smakowym, z nutami karmelu i czekolady. Doskonała na popołudniowy relaks.",
+    "cardTitle2": "JABŁKO & ŻURAWINA",
+    "cardDesc2": "Czekolada mleczna",
 
-    "cardTitle5": "Arabica Kenya AA",
-    "cardDesc5": "Wyrazista kawa o intensywnym owocowym smaku z delikatną kwasowością. Idealna na wyjątkowe okazje.",
+    "cardTitle3": "limonka & sól morska",
+    "cardDesc3": "Ciemna czekolada",
 
-    "cardTitle6": "Arabica Peru",
-    "cardDesc6": "Organiczna kawa o łagodnym smaku, z nutami karmelu i miodu.",
+    "cardTitle4": "ananas",
+    "cardDesc4": "Ciemna czekolada",
 
-    "cardTitle7": "Arabica Sumatra",
-    "cardDesc7": "Kawa o pełnym, ziemistym smaku z nutami przypraw i czekolady. Doskonała dla koneserów.",
+    "cardTitle5": "Klasyczna",
+    "cardDesc5": "Czekolada mleczna",
 
-    "cardTitle8": "Robusta India",
-    "cardDesc8": "Mocna kawa o intensywnym smaku i dużej zawartości kofeiny. Idealna na poranne pobudzenie.",
+    "cardTitle6": "miód",
+    "cardDesc6": "Czekolada mleczna",
 
-    "cardTitle9": "Mieszanka Espresso",
-    "cardDesc9": "Starannie dobrana mieszanka Arabiki i Robusty, idealna do przygotowania mocnego espresso.",
+    "cardTitle7": "Pieczone owoce",
+    "cardDesc7": "Ciemna czekolada",
 
-    "cardTitle10": "Arabica Costa Rica",
-    "cardDesc10": "Kawa o jasnym smaku z nutami cytrusów i miodu. Doskonała dla miłośników subtelnych aromatów.",
+    "cardTitle8": "Klasyczna",
+    "cardDesc8": "Czekolada biała",
 
-    "cardQuantity": "Numer",
-    "cardPrice": "Cena",
-    "mainTitle": "nasze towary",
-    "mainBtn": "przejdź do katalogu"
+    "cardTitle9": "Malina & czekolada biała",
+    "cardDesc9": "Czekolada biała",
+
+    "cardTitle10": "Karmel & sól morska",
+    "cardDesc10": "Czekolada mleczna"
   },
   "payment": {
     "mainTitle": "Opłata i dostawa",
@@ -72,12 +103,12 @@
     "title3": "Śledzenie przesyłki",
     "title4": "Kontakt",
 
-    "text1": "W naszym sklepie internetowym  https://coffeeonlineslot.com  oferujemy różnorodne, wygodne metody płatności, aby zapewnić komfort zakupów naszym klientom. Możesz wybrać jeden z następujących sposobów płatności:",
+    "text1": "W naszym sklepie internetowym  https://sweetsslotshop.com  oferujemy różnorodne, wygodne metody płatności, aby zapewnić komfort zakupów naszym klientom. Możesz wybrać jeden z następujących sposobów płatności:",
     "text2": "Wszystkie płatności są przetwarzane w bezpieczny sposób, co gwarantuje ochronę Twoich danych osobowych i finansowych.",
     "text3": "Dostarczamy nasze produkty na terenie Polski oraz do wielu krajów Europy. Oferujemy następujące opcje dostawy:",
     "text4": "Koszty dostawy są obliczane automatycznie podczas składania zamówienia i zależą od wybranej metody dostawy oraz lokalizacji dostarczenia.",
     "text5": "Po wysłaniu zamówienia otrzymasz od nas numer śledzenia przesyłki, który umożliwi Ci monitorowanie statusu dostawy w czasie rzeczywistym.",
-    "text6": "W razie jakichkolwiek pytań dotyczących płatności lub dostawy, prosimy o kontakt za pośrednictwem strony Kontakt dostępnej naW razie jakichkolwiek pytań dotyczących płatności lub dostawy, prosimy o kontakt za pośrednictwem strony Kontakt dostępnej na https://coffeeonlineslot.com .Jesteśmy tu, aby pomóc!",
+    "text6": "W razie jakichkolwiek pytań dotyczących płatności lub dostawy, prosimy o kontakt za pośrednictwem strony Kontakt dostępnej naW razie jakichkolwiek pytań dotyczących płatności lub dostawy, prosimy o kontakt za pośrednictwem strony Kontakt dostępnej na https://sweetsslotshop.com .Jesteśmy tu, aby pomóc!",
 
     "item1": "Płatność kartą kredytową/debetową (Visa, MasterCard)",
     "item2": "Przelew bankowy",
@@ -97,12 +128,12 @@
     "title5": "5. Zmiany w regulaminie",
     "title6": "6. Kontakt",
 
-    "text1": "Niniejszy regulamin określa zasady korzystania z platformy  https://coffeeonlineslot.com  Korzystanie z naszej strony internetowej oznacza akceptację niniejszych warunków. Prosimy o uważne zapoznanie się z regulaminem przed dokonaniem jakichkolwiek zakupów.",
-    "text2": "Podczas składania zamówienia użytkownik jest zobowiązany do podania prawdziwych danych, takich jak: imię i nazwisko, numer telefonu oraz adres e-mail. Informacje te są niezbędne do realizacji zamówienia i kontaktu z klientem. https://coffeeonlineslot.com  gwarantuje ochronę danych osobowych zgodnie z obowiązującymi przepisami o ochronie danych.",
+    "text1": "Niniejszy regulamin określa zasady korzystania z platformy  https://sweetsslotshop.com  Korzystanie z naszej strony internetowej oznacza akceptację niniejszych warunków. Prosimy o uważne zapoznanie się z regulaminem przed dokonaniem jakichkolwiek zakupów.",
+    "text2": "Podczas składania zamówienia użytkownik jest zobowiązany do podania prawdziwych danych, takich jak: imię i nazwisko, numer telefonu oraz adres e-mail. Informacje te są niezbędne do realizacji zamówienia i kontaktu z klientem. https://sweetsslotshop.com  gwarantuje ochronę danych osobowych zgodnie z obowiązującymi przepisami o ochronie danych.",
     "text3": "Użytkownik zobowiązuje się do korzystania z platformy zgodnie z prawem i zasadami określonymi w niniejszym regulaminie. Zabronione jest:",
-    "text4": "Platforma  https://coffeeonlineslot.com  nie ponosi odpowiedzialności za jakiekolwiek szkody wynikające z niewłaściwego korzystania z jej usług przez użytkownika. W przypadku problemów technicznych z platformą użytkownik ma obowiązek niezwłocznie zgłosić je administratorom strony.",
+    "text4": "Platforma  https://sweetsslotshop.com  nie ponosi odpowiedzialności za jakiekolwiek szkody wynikające z niewłaściwego korzystania z jej usług przez użytkownika. W przypadku problemów technicznych z platformą użytkownik ma obowiązek niezwłocznie zgłosić je administratorom strony.",
     "text5": "Zastrzegamy sobie prawo do dokonywania zmian w niniejszym regulaminie w dowolnym momencie. Wszelkie zmiany zostaną opublikowane na tej stronie i zaczną obowiązywać z chwilą ich opublikowania. Korzystanie z platformy po wprowadzeniu zmian oznacza akceptację nowego regulaminu.",
-    "text6": "W razie pytań dotyczących niniejszego regulaminu prosimy o kontakt za pośrednictwem strony Kontakt dostępnej na https://coffeeonlineslot.com.",
+    "text6": "W razie pytań dotyczących niniejszego regulaminu prosimy o kontakt za pośrednictwem strony Kontakt dostępnej na https://sweetsslotshop.com.",
 
     "item1": "Korzystanie z platformy w sposób, który narusza obowiązujące przepisy prawa.",
     "item2": "Przekazywanie nieprawdziwych lub wprowadzających w błąd informacji podczas rejestracji lub składania zamówień.",
@@ -117,7 +148,7 @@
     "title4": "4. Wymiana produktów",
     "title5": "5. Kontakt",
 
-    "text1": "Wszystkie produkty zakupione w sklepie internetowym https://coffeeonlineslot.com są objęte gwarancją producenta. Gwarancja obejmuje wady fabryczne oraz uszkodzenia wynikające z normalnego użytkowania. Okres gwarancji zależy od konkretnego produktu i jest podany w jego opisie na naszej stronie.",
+    "text1": "Wszystkie produkty zakupione w sklepie internetowym https://sweetsslotshop.com są objęte gwarancją producenta. Gwarancja obejmuje wady fabryczne oraz uszkodzenia wynikające z normalnego użytkowania. Okres gwarancji zależy od konkretnego produktu i jest podany w jego opisie na naszej stronie.",
     "text2": "W przypadku stwierdzenia wady zakupionego produktu, prosimy o natychmiastowy kontakt z naszym działem obsługi klienta za pośrednictwem strony Kontakt dostępnej na Kontakt.",
     "text3": "Klient ma prawo do zwrotu zakupionego towaru w ciągu 14 dni od dnia otrzymania przesyłki bez podania przyczyny. Aby skorzystać z prawa do odstąpienia od umowy, prosimy o kontakt z naszym działem obsługi klienta oraz wypełnienie formularza zwrotu dostępnego na stronie.",
     "text4": "Zwracany produkt musi być w stanie nienaruszonym, w oryginalnym opakowaniu i bez śladów użytkowania. Koszty przesyłki zwrotnej pokrywa klient, chyba że zwrot jest wynikiem błędu z naszej strony (np. wysłanie niewłaściwego produktu).",
@@ -137,7 +168,7 @@
     "title7": "7. Zmiany w polityce prywatności",
     "title8": "8. Kontakt",
 
-    "text1": "Niniejsza polityka prywatności określa zasady przetwarzania danych osobowych użytkowników korzystających ze strony internetowej https://coffeeonlineslot.com . Ochrona prywatności naszych klientów jest dla nas priorytetem, dlatego gromadzimy i przetwarzamy dane osobowe zgodnie z obowiązującymi przepisami prawa, w tym zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 (RODO).",
+    "text1": "Niniejsza polityka prywatności określa zasady przetwarzania danych osobowych użytkowników korzystających ze strony internetowej https://sweetsslotshop.com . Ochrona prywatności naszych klientów jest dla nas priorytetem, dlatego gromadzimy i przetwarzamy dane osobowe zgodnie z obowiązującymi przepisami prawa, w tym zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 (RODO).",
     "text2": "Podczas składania zamówienia lub rejestracji na naszej stronie, możemy poprosić o podanie następujących danych:",
     "text3": "Dane te są niezbędne do realizacji zamówień oraz kontaktu z klientami w razie pytań lub problemów.",
     "text4": "Przetwarzamy dane osobowe użytkowników w celu:",
@@ -162,15 +193,18 @@
     "item13": "Złożenia skargi do organu nadzorczego w przypadku naruszenia przepisów dotyczących ochrony danych osobowych"
   },
   "footer": {
-    "link1": "Główny",
-    "link2": "Kawa",
-    "link3": "Jak to działa",
-    "link5": "Polityka prywatności |",
-    "link6": "Regulamin korzystania z Platformy |",
-    "link7": "Gwarancja i zwroty |",
-    "link8": "Opłata i dostawa",
+    "mainTitle": "Czekolada pyszne lekarstwo na zły dzień",
 
-    "text1": "Pomoc",
-    "text2": "Działy"
+    "link1": "Strona główna",
+    "link2": "Jak to jest zrobione?",
+    "link3": "Nasze produkty",
+    "link4": "Czekolada jest uwielbiana",
+    "link5": "Polityka prywatności",
+    "link6": "Warunki korzystania",
+    "link7": "Gwarancja i zwroty",
+    "link8": "Płatność i dostawa",
+
+    "text1": "Skontaktuj się z nami",
+    "text2": "Sekcje"
   }
 }

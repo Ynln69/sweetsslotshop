@@ -43,3 +43,45 @@
   background-color: var(--mainBgColor);
   font-weight: 600;
 }
+.products-link {
+  display: inline-block;
+  margin-top: 30px;
+  border-radius: 100px;
+  padding: 14px 40px;
+
+  background-color: var(--accentColor);
+  color: var(--secondaryTextColor);
+  font-weight: 600;
+}
+
+.pagination {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.pagination-button {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  border: 1px solid var(--accentColor);
+  border-radius: 50%;
+
+  background-color: transparent;
+  font-weight: 600;
+
+  &:hover,
+  &:focus {
+    background-color: var(--accentColor);
+    color: var(--secondaryTextColor);
+  }
+}
+
+.active {
+  background-color: var(--accentColor);
+  color: var(--secondaryTextColor);
+}
